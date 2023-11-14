@@ -91,9 +91,9 @@ body{
 .phone{
     position: absolute;
     z-index: 4;
-    height: 25vh;
-    left: 42vh;
-    top: 57vh;
+    height: 25%;
+    left: 23.5%;
+    top: 57%;
     cursor: pointer;
 }
 

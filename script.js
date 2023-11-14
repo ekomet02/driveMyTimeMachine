@@ -79,7 +79,9 @@ function preloadImages() {
     console.log('loaded images');
     const imageUrls = [
         "images/home.png", "images/space.png", "images/home copy.png", "images/algonquin.png", "images/MWCSS.png", "images/dogpark.png", "images/nofrills.png", "images/ocad.png", "images/lot.png",
-        "images/info/info1.png", "images/info/info3.png", "images/info/info4.png", "images/info/info5.png", "images/info/info6.png", "images/info/info7.png", "images/info/info8.png", "images/info/info9.png", "images/info/info10.png"
+        "images/info/info1.png", "images/info/info3.png", "images/info/info4.png", "images/info/info5.png", "images/info/info6.png", "images/info/info7.png", "images/info/info8.png", "images/info/info9.png", "images/info/info10.png",
+        "images/acura.png", "images/acurahober.png", "images/iphonexr-redhover.png", "images/breakpedalhover.png", "images/gaspedalhover.png",
+        "images/IMG_0601.JPG"
     ];
 
     for (const imageUrl of imageUrls) {
